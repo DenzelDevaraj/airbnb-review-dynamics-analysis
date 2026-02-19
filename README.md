@@ -15,8 +15,7 @@ Analysis of Airbnb listing performance in New York City, identifying the key dri
 - Average listing price: $157.91 | Average review score: 94/100
 
 ## Files
-- `Predictive_Prescriptive_Model` - Python code for data analysis and predictive modelling
-- `Airbnb_Data_Analysis` - Full written report
+- `Airbnb_Data_Analysis` - Python Code for Data Analysis
 - `Airbnb_Dashboard` - Power BI dashboard screenshot
 
 ## Skills Demonstrated
